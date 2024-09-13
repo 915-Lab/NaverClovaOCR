@@ -1,0 +1,2 @@
+# NaverClovaOCR
+OCR test
